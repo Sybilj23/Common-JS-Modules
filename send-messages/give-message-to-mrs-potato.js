@@ -1,4 +1,4 @@
-
+let {sayHelloTo} = require("./say-hello-to")
 
 function giveMessageToMrsPotato(message) {
   sayHelloTo("Mrs. Potato");
